@@ -1,0 +1,12 @@
+POST http://localhost:8080/api/students
+Content-Type: application/json
+Authorization: Bearer cf4a15e5fac2bf07dd5465dfb882612d59d9e885dc30ac68352d36e25031226db0ea3fb24fda528649fb2d06c5547ad53f467433320f0283c8e4b70c0fb7ab2aacdcded3ca34db2f2ac88089a40fa92d5e2768724e96b8e29767a1892d202e096511e37eb5f619beaca97c059889264cae829f7abf473283132a3ea5be716b7f
+
+{
+    "data": 
+        {
+            "name": "Thanaporn",
+            "mobile": "0865486204",
+            "cardId": "6602041520080"
+        }
+}
